@@ -1,0 +1,14 @@
+@media(max-width:1220px){
+    .hassle{margin: 50px 0 0 0;font-size: 50px;}
+    .txt{margin-inline: 0;}
+    .butt{flex-direction: column;margin: 10%;}
+    .box{flex-direction: column;}    
+    .left{width: 100%;}
+    .hars{margin: 5%;}
+    .right{width: 100%;}
+    .yellow{flex-direction: column;}
+    .yellow .text{width: 100%;text-align: justify;}
+}
+@media(max-width:520px){
+    .hars{display:none}
+}
